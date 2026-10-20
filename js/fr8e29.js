@@ -1,0 +1,1 @@
+var loo="UjZxEjO4YjMipTNhZmM6czM4EmOwADMxozM0YjOwM2M1ojZwMmM";$('#loading').hide();$('#msg').show();$("#msg").html(atob('PGhyPjxzcGFuIGNsYXNzPSJoNSB0ZXh0LXJlZCI+UGxlYXNlIHRyeSB3aXRoIGFub3RoZXIgYnJvd3Nlci48YnI+V2UgcmVjb21tZW5kIHVzaW5nIHRoZSBDaHJvbWUgYnJvd3Nlci48YnI+T3VyIHdlYnNpdGU6IDxiIGNsYXNzPSJ0ZXh0LXByaW1hcnkiPmh0dHBzOi8vbnJlZXIuY29tPC9iPjwvc3Bhbj48aHI+'));
